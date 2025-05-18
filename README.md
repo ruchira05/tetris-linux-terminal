@@ -30,7 +30,7 @@ A simple terminal-based Tetris game built in C++ using a custom game engine. It 
 ## Compilation
 
 ```bash
-g++ -std=c++11 -o tetris main.cpp -lpthread
+g++ -std=c++11 -o tetris Source.cpp -lpthread
 ```
 
 ## Running the Game
